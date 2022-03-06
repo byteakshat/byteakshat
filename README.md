@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byteakshat&label=Profile%20views&color=0e75b6&style=flat" alt="byteakshat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byteakshat" alt="byteakshat" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nerkoux" alt="nerkoux" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vexrdiscord" target="blank"><img src="https://img.shields.io/twitter/follow/vexrdiscord?logo=twitter&style=for-the-badge" alt="vexrdiscord" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vexrdiscord" target="blank"><img src="https://img.shields.io/twitter/follow/vexrxakshat?logo=twitter&style=for-the-badge" alt="vexrxakshat" /></a> </p>
 
 - 🔭 I’m currently working on **JavaScript**
 
@@ -17,13 +17,13 @@
 
 - 💬 Ask me about **JavaScript and Node**
 
-- 📫 How to reach me **contact@akshatmehta.xyz**
+- 📫 How to reach me **mail@vexr.me**
 
 - ⚡ Fun fact **I think I am an anime lover ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vexrdiscord" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vexrdiscord" height="30" width="40" /></a>
+<a href="https://twitter.com/vexrxakshat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vexrdiscord" height="30" width="40" /></a>
 <a href="https://instagram.com/akszt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akszt" height="30" width="40" /></a>
 </p>
 
